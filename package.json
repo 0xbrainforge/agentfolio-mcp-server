@@ -27,7 +27,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xbrainkid/agentfolio-mcp-server"
+    "url": "git+https://github.com/brainAI-bot/agentfolio-mcp-server.git"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0"
